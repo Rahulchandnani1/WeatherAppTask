@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  border: 2px solid black;
+  width:60%;
+  border-radius: 10px;
+  margin-left: auto;margin-right: auto;
+  margin-top: 5%;
+}
+.container {
+  text-align: center;
+}
+input{border: 2px solid black;margin-right: 1%;}
+button{border: 2px solid black;background-color: azure;font-size: large;}
+li{border: 2px solid black;
+width: max-content;margin-bottom: 2%;padding: 1%;border-radius: 5px;}
+ul{display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;}
+  .searchdata{background-color: aquamarine;font-size: large;}
+#weatherInfo {
+  margin-top: 20px;
+}
+
+#recentSearches {
+  margin-top: 20px;
+  text-align: center;
+}
